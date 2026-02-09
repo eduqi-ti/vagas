@@ -49,7 +49,7 @@ Essa posição não é apenas para “codar tarefa”: esperamos alguém que pen
 
 ## Sobre a Eduqi
 
-O **Eduqi** (https://www.grupoeduqi.com.br) é um grupo educacional com múltiplas marcas digitais focadas em educação, concursos públicos e preparação profissional.
+A **Eduqi** (https://www.grupoeduqi.com.br) é um grupo educacional com múltiplas marcas digitais focadas em educação, concursos públicos e preparação profissional.
 
 O grupo atua com diferentes produtos e públicos, incluindo:
 
