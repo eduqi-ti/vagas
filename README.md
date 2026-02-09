@@ -9,7 +9,6 @@ Essa posição não é apenas para “codar tarefa”: esperamos alguém que pen
 
 - **Regime:** Pessoa Jurídica (PJ)
 - **Modalidade:** Presencial
-- **Remuneração:** R$ 12.000,00
 
 ## Responsabilidades
 
@@ -26,7 +25,7 @@ Essa posição não é apenas para “codar tarefa”: esperamos alguém que pen
 - Experiência sólida como desenvolvedor(a) sênior em ambientes de produção  
 - Domínio de pelo menos uma stack backend moderna (Node.js, Python, PHP, Java, etc.)  
 - Experiência no desenvolvimento e consumo de APIs  
-- Vivência com bancos de dados relacionais e/ou NoSQL  
+- Vivência com bancos de dados relacionais
 - Conhecimento prático em arquitetura de software (monolitos bem estruturados, microsserviços, etc.)  
 - Experiência com versionamento (Git), code review e boas práticas de engenharia  
 - Capacidade de tomar decisões técnicas com autonomia e responsabilidade  
