@@ -45,4 +45,19 @@ Essa posição não é apenas para “codar tarefa”: esperamos alguém que pen
 - **Autonomia:** não esperamos alguém que precise ser guiado o tempo todo  
 - **Critério técnico:** saber quando não complicar e quando aprofundar  
 - **Comunicação clara:** explicar decisões técnicas para públicos não técnicos  
-- **Postura de dono(a):** pensar no impacto do código no produto e no negócio  
+- **Postura de dono(a):** pensar no impacto do código no produto e no negócio
+
+## Sobre a Eduqi
+
+O **Eduqi** (https://www.grupoeduqi.com.br) é um grupo educacional com múltiplas marcas digitais focadas em educação, concursos públicos e preparação profissional.
+
+O grupo atua com diferentes produtos e públicos, incluindo:
+
+- https://www.editorasolucao.com.br/
+- https://www.apostilasopcao.com.br/
+- https://www.novaconcursos.com.br/
+- https://www.maxieduca.com.br/
+- https://www.mapadaprova.com.br/
+
+Trabalhar na Eduqi significa atuar em um **ecossistema de produtos digitais reais**, com desafios técnicos relacionados a escala, integrações, regras de negócio e evolução contínua de sistemas legados e novos produtos.
+
