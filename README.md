@@ -23,7 +23,7 @@ Essa posição não é apenas para “codar tarefa”: esperamos alguém que pen
 ## Requisitos obrigatórios
 
 - Experiência sólida como desenvolvedor(a) sênior em ambientes de produção  
-- Domínio de pelo menos uma stack backend moderna (Node.js, Python, PHP, Java, etc.)  
+- Domínio de pelo menos uma stack backend moderna (C#, Node.js, Python, PHP, Java, etc.)  
 - Experiência no desenvolvimento e consumo de APIs  
 - Vivência com bancos de dados relacionais
 - Conhecimento prático em arquitetura de software (monolitos bem estruturados, microsserviços, etc.)  
