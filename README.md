@@ -8,7 +8,7 @@ Essa posição não é apenas para “codar tarefa”: esperamos alguém que pen
 ## Modelo de trabalho
 
 - **Regime:** Pessoa Jurídica (PJ)
-- **Modalidade:** Presencial
+- **Modalidade:** Presencial (Alfenas - MG)
 
 ## Responsabilidades
 
