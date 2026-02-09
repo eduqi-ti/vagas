@@ -5,7 +5,7 @@
 Buscamos um(a) Desenvolvedor(a) Sênior para atuar de forma estratégica e mão na massa, com responsabilidade real sobre decisões técnicas, qualidade do código e evolução do produto.  
 Essa posição não é apenas para “codar tarefa”: esperamos alguém que pense arquitetura, antecipe problemas e ajude o time a evoluir tecnicamente.
 
-## Modelo de trabalho e remuneração
+## Modelo de trabalho
 
 - **Regime:** Pessoa Jurídica (PJ)
 - **Modalidade:** Presencial
